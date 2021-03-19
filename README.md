@@ -2,6 +2,14 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+
+I am reading the following books
+Learn Python 3 the Hard Way A good starting place if you are new to python. Note there's earlier version Learn Python the Hard Way that covers Python 2.
+
+Learning Python Get a comprehensive, in-depth introduction to the core Python language with this hands-on book.Complete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.x and 3.x
+
+Python Crash Course A hands-on, project-based introduction to programming.
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
